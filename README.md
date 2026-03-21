@@ -27,11 +27,11 @@ After this, we took drone images and created prediction masks. We used a depth-f
 ## Poster
 - The poster for this project is below:
 - [Download COSMOS Cluster 2 Drones Poster.pdf](https://github.com/user-attachments/files/21535167/COSMOS.Cluster.2.Drones.Poster.pdf)
-- [Download AAIML_2026_paper_1744.pdf]
+- [Download AAIML_2026_paper_1744.pdf](https://github.com/user-attachment
 
 ## Contact
 - In case there are any questions or challenges you have, feel free to shoot us an email. Note: all notebooks are labeled with an author.
 - Nelson Nishio: nelsonknishio@gmail.com
-- Pablo Silva: pbsilva2009@gmail.com
+- Pablo Silva: pablo.silvalizarraga@gmail.com
 - Arjun Maganti: arjunmaganti2008@gmail.com
 - Amun Reddy: amunreddy@gmail.com
