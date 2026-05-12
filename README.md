@@ -33,3 +33,6 @@ After this, we took drone images and created prediction masks. We used a depth-f
 - Pablo Silva: pablo.silvalizarraga@gmail.com
 - Arjun Maganti: arjunmaganti2008@gmail.com
 - Amun Reddy: amunreddy@gmail.com
+
+## Final Paper
+The final paper for this project can be accessed at https://ieeexplore.ieee.org/abstract/document/11498113
